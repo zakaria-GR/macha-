@@ -1,0 +1,42 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "",
+      "main_ads_banner": "746639c46b932cd8",
+      "main_ads_intertitial": "402b3d0cbf1a39ef",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+	  "main_ads_native": "ca-app-pub-3940256696110",
+      "backup_ads_native": "",
+      "interstitial_counter": "2",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "animegirl",
+      "show_category": "10"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "samurai",
+      "image_url": "https://ia801409.us.archive.org/0/items/2b-587c-7629548a-9d-5e-587863a-63ae-434/2b587c7629548a9d5e587863a63ae434.jpg"
+    },{
+      "title_search": "cars",
+      "image_url": "https://i.pinimg.com/564x/d5/28/88/d52888bd752eafaa9868682fc6177b64.jpg"
+    },{
+      "title_search": "space",
+      "image_url": "https://ia601406.us.archive.org/3/items/5487a-135969229.570acbfe-9fb-4c/5487a135969229.570acbfe9fb4c.png"
+    },{
+      "title_search": "dog",
+      "image_url": "https://ia601403.us.archive.org/12/items/367bc-6da-59a-98038fcbe-1736aaddfcc-6/4371ba69db3a17126ca1b903d46ffdc1.png"
+    }
+    
+  ]
+}
